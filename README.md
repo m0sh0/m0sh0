@@ -1,46 +1,64 @@
-<h1 align="left">My name is Mihail Mihov and I'm a beginner C# software developer from Bulgaria</h1>
+# Hey, I'm Mihail 👋
 
-###
+I'm a self-driven developer from Bulgaria, currently focused on building real products and leveling up my full-stack skills.
 
-<h5 align="left">About me:</h5>
+---
 
-###
+## 🚀 What I'm building
 
-<p align="left">-🌱 I am a beginner software engineer passionate about learning and building projects.<br>-🚀 I’m exploring C#, HTML and CSS,  Web Development and Game Development.<br>-🎯 My goal is to become a full-stack developer and contribute to open-source projects.</p>
+**[RoomIQ](https://github.com/m0sh0)** — An AI-powered interior design app for iOS & Android.  
+Stack: React Native · Expo Router · TypeScript · Supabase · fal.ai · RevenueCat
 
-###
+---
 
-<h2 align="center">I code with</h2>
+## 🧠 What I'm learning
 
-###
+- Async JavaScript — HTTP, AJAX, REST APIs
+- Full-stack patterns: auth flows, real-time data, backend architecture
+- Mobile app development and deployment pipelines
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech I work with
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0sh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0sh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+**Primary**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-###
+**Tools & Platforms**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mosho-mihail-65a865346/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100027372383033" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+**Exploring**  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-###
+---
+
+## 📌 Pinned work
+
+- 🏠 **RoomIQ** — AI interior design, React Native + Supabase
+- 🗃️ **ProjectVault** — Documenting my learning journey, byte by byte
+- 🔳 **Qr-code-generator** — Quick utility project
+
+---
+
+## 📊 GitHub Stats
+
+![Misho's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0sh0&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0sh0&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosho-mihail-65a865346/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mishomihov41@gmail.com)
+
+---
+
+*Currently in 11th grade. Building now, refining later.*
