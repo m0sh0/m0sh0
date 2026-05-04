@@ -35,15 +35,14 @@ Stack: React Native · Expo Router · TypeScript · Supabase · fal.ai · Revenu
 
 **Exploring**  
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ---
 
 ## 📌 Pinned work
 
-- 🏠 **RoomIQ** — AI interior design, React Native + Supabase
-- 🗃️ **ProjectVault** — Documenting my learning journey, byte by byte
+- 🗃️ **ProjectVault** — Documented my learning journey in the beggining, byte by byte
 - 🔳 **Qr-code-generator** — Quick utility project
+- 🛜 **TcpFromScratch - Tcp server made with no frameworks
 
 ---
 
