@@ -42,7 +42,7 @@ Stack: React Native · Expo Router · TypeScript · Supabase · fal.ai · Revenu
 
 - 🗃️ **ProjectVault** — Documented my learning journey in the beggining, byte by byte
 - 🔳 **Qr-code-generator** — Quick utility project
-- 🛜 **TcpFromScratch - Tcp server made with no frameworks
+- 🛜 **TcpFromScratch** - Tcp server made with no frameworks
 
 ---
 
