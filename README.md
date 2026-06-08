@@ -4,7 +4,7 @@ I'm a self-driven developer from Bulgaria, currently focused on building real pr
 ---
 
 ## 🚀 What I'm building
-**[University Gamification API](https://github.com/m0sh0)** — A REST API backend for a loyalty/quest system where students earn points for campus activity.  
+**[NBU+](https://github.com/m0sh0)** — A REST API backend for a loyalty/quest system where students earn points for campus activity.  
 Stack: PHP · Yii2 · MySQL
 
 **[RoomIQ](https://github.com/m0sh0)** — An AI-powered interior design app for iOS & Android. *(on hold)*  
