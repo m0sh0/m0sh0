@@ -25,7 +25,6 @@ Stack: React Native · TypeScript · Supabase · fal.ai
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **Backend & Data**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -60,4 +59,4 @@ Stack: React Native · TypeScript · Supabase · fal.ai
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mishomihov41@gmail.com)
 
 ---
-*Currently in 11th grade. Building now, refining later.*
+*Soon to be 12th grade. Building now, refining later.*
