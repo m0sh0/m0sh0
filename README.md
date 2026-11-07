@@ -59,4 +59,4 @@ Stack: React Native · TypeScript · Supabase · fal.ai
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mishomihov41@gmail.com)
 
 ---
-*Soon to be 12th grade. Building now, refining later.*
+*Currently 12th grade. Building now, refining later.*
