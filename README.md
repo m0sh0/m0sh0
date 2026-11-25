@@ -9,10 +9,8 @@ Stack: PHP · Yii2 · MySQL
 
 ---
 
-## 🧠 What I'm learning
-- C — memory management, pointers, manual allocation (via boot.dev)
-- Data structures & algorithms in C# (NeetCode roadmap)
-- Backend architecture & REST API design patterns
+## 🧠 What I'm learning currently
+- Backend architecture & REST API design patterns with golang
 
 ---
 
@@ -30,6 +28,9 @@ Stack: PHP · Yii2 · MySQL
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat&logo=raylib&logoColor=white)
 
+**Next up**
+- Remaking my old Qr code generator project in golang
+- Learning data structures & algorithms in depth with leetcode
 ---
 
 ## 📌 Pinned work
