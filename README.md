@@ -30,7 +30,7 @@ Stack: PHP · Yii2 · MySQL
 
 ---
 
-##Next up
+## Next up
 - Remaking my old Qr code generator project in golang
 - Learning data structures & algorithms in depth with leetcode
 ---
