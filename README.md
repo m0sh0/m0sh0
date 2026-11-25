@@ -28,7 +28,9 @@ Stack: PHP · Yii2 · MySQL
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat&logo=raylib&logoColor=white)
 
-**Next up**
+---
+
+##Next up
 - Remaking my old Qr code generator project in golang
 - Learning data structures & algorithms in depth with leetcode
 ---
